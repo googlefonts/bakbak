@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="hbar" format="2">
+	<advance width="592"/>
+	<outline>
+		<contour>
+			<point x="290" y="613" type="line"/>
+			<point x="-14" y="613" type="line"/>
+			<point x="-14" y="533" type="line"/>
+			<point x="290" y="533" type="line"/>
+		</contour>
+		<component base="h"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>public.markColor</key>
+			<string>0.75,0.75,0.75,1</string>
+		</dict>
+	</lib>
+</glyph>

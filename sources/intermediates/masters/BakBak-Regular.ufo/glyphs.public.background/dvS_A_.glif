@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dvSA" format="2">
+	<advance width="687"/>
+	<outline>
+		<contour>
+			<point x="71" y="191" type="line"/>
+			<point x="153" y="234" type="line"/>
+			<point x="172" y="220"/>
+			<point x="198" y="214"/>
+			<point x="221" y="214" type="curve" smooth="yes"/>
+			<point x="319" y="214"/>
+			<point x="353" y="260"/>
+			<point x="353" y="362" type="curve" smooth="yes"/>
+			<point x="353" y="572" type="line"/>
+			<point x="208" y="573" type="line"/>
+			<point x="208" y="379" type="line" smooth="yes"/>
+			<point x="208" y="325"/>
+			<point x="191" y="307"/>
+			<point x="123" y="307" type="curve" smooth="yes"/>
+			<point x="71" y="307" type="line"/>
+		</contour>
+		<contour>
+			<point x="12" y="500" type="line"/>
+			<point x="463" y="500" type="line"/>
+			<point x="463" y="607" type="line"/>
+			<point x="12" y="607" type="line"/>
+		</contour>
+		<contour>
+			<point x="395" y="9" type="line"/>
+			<point x="395" y="11" type="line"/>
+			<point x="342" y="89"/>
+			<point x="253" y="184"/>
+			<point x="170" y="236" type="curve"/>
+			<point x="71" y="228" type="line"/>
+			<point x="71" y="191" type="line"/>
+			<point x="229" y="9" type="line"/>
+		</contour>
+	</outline>
+</glyph>

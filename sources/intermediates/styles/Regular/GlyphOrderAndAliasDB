@@ -1,0 +1,970 @@
+.notdef .notdef
+NULL NULL uni0000
+CR CR uni000D
+space space uni0020
+dvA dvA uni0905
+dvAA dvAA uni0906
+dvI dvI uni0907
+dvII dvII uni0908
+dvU dvU uni0909
+dvUU dvUU uni090A
+dvvR dvvR uni090B
+dvvRR dvvRR uni0960
+dvvL dvvL uni090C
+dvvLL dvvLL uni0961
+dvE dvE uni090F
+dvAI dvAI uni0910
+dvO dvO uni0913
+dvAU dvAU uni0914
+dvEcandra dvEcandra uni090D
+dvAcandra dvAcandra uni0972
+dvOcandra dvOcandra uni0911
+dvmAA dvmAA uni093E
+dvmI dvmI uni093F
+dvmII dvmII uni0940
+dvmU dvmU uni0941
+dvmUU dvmUU uni0942
+dvmvR dvmvR uni0943
+dvmvRR dvmvRR uni0944
+dvmvL dvmvL uni0962
+dvmvLL dvmvLL uni0963
+dvmE dvmE uni0947
+dvmAI dvmAI uni0948
+dvmO dvmO uni094B
+dvmAU dvmAU uni094C
+dvmEcandra dvmEcandra uni0945
+dvmOcandra dvmOcandra uni0949
+dvKA dvKA uni0915
+dvKHA dvKHA uni0916
+dvGA dvGA uni0917
+dvGHA dvGHA uni0918
+dvNGA dvNGA uni0919
+dvCA dvCA uni091A
+dvCHA dvCHA uni091B
+dvJA dvJA uni091C
+dvJHA dvJHA uni091D
+dvNYA dvNYA uni091E
+dvTTA dvTTA uni091F
+dvTTHA dvTTHA uni0920
+dvDDA dvDDA uni0921
+dvDDHA dvDDHA uni0922
+dvNNA dvNNA uni0923
+dvTA dvTA uni0924
+dvTHA dvTHA uni0925
+dvDA dvDA uni0926
+dvDHA dvDHA uni0927
+dvNA dvNA uni0928
+dvPA dvPA uni092A
+dvPHA dvPHA uni092B
+dvBA dvBA uni092C
+dvBHA dvBHA uni092D
+dvMA dvMA uni092E
+dvYA dvYA uni092F
+dvRA dvRA uni0930
+dvLA dvLA uni0932
+dvVA dvVA uni0935
+dvSHA dvSHA uni0936
+dvSSA dvSSA uni0937
+dvSA dvSA uni0938
+dvHA dvHA uni0939
+dvLLA dvLLA uni0933
+dvK_SSA dvK_SSA
+dvJ_NYA dvJ_NYA
+dvKxA dvKxA uni0958
+dvKHxA dvKHxA uni0959
+dvGxA dvGxA uni095A
+dvJxA dvJxA uni095B
+dvDDxA dvDDxA uni095C
+dvDDHxA dvDDHxA uni095D
+dvPHxA dvPHxA uni095E
+dvRxA dvRxA uni0931
+dvAnusvara dvAnusvara uni0902
+dvCandrabindu dvCandrabindu uni0901
+dvVisarga dvVisarga uni0903
+dvAvagraha dvAvagraha uni093D
+dvVirama dvVirama uni094D
+dvNukta dvNukta uni093C
+dvOm dvOm uni0950
+dvAbbreviationsign dvAbbreviationsign uni0970
+danda danda uni0964
+doubledanda doubledanda uni0965
+zerowidthnonjoiner zerowidthnonjoiner uni200C
+zerowidthjoiner zerowidthjoiner uni200D
+dottedcircle dottedcircle uni25CC
+dvReph dvReph
+dvEyelash dvEyelash
+dvRakar dvRakar
+dvK dvK
+dvKH dvKH
+dvG dvG
+dvGH dvGH
+dvNG dvNG
+dvC dvC
+dvCH dvCH
+dvJ dvJ
+dvJH dvJH
+dvNY dvNY
+dvTT dvTT
+dvTTH dvTTH
+dvDD dvDD
+dvDDH dvDDH
+dvNN dvNN
+dvT dvT
+dvTH dvTH
+dvD dvD
+dvDH dvDH
+dvN dvN
+dvP dvP
+dvPH dvPH
+dvB dvB
+dvBH dvBH
+dvM dvM
+dvY dvY
+dvR dvR
+dvL dvL
+dvV dvV
+dvSH dvSH
+dvSS dvSS
+dvS dvS
+dvH dvH
+dvLL dvLL
+dvK_SS dvK_SS
+dvJ_NY dvJ_NY
+dvKx dvKx
+dvKHx dvKHx
+dvGx dvGx
+dvJx dvJx
+dvPHx dvPHx
+dvK_RA dvK_RA
+dvKH_RA dvKH_RA
+dvG_RA dvG_RA
+dvGH_RA dvGH_RA
+dvNG_RA dvNG_RA
+dvC_RA dvC_RA
+dvCH_RA dvCH_RA
+dvJ_RA dvJ_RA
+dvJH_RA dvJH_RA
+dvNY_RA dvNY_RA
+dvTT_RA dvTT_RA
+dvTTH_RA dvTTH_RA
+dvDD_RA dvDD_RA
+dvDDH_RA dvDDH_RA
+dvNN_RA dvNN_RA
+dvT_RA dvT_RA
+dvTH_RA dvTH_RA
+dvD_RA dvD_RA
+dvDH_RA dvDH_RA
+dvN_RA dvN_RA
+dvP_RA dvP_RA
+dvPH_RA dvPH_RA
+dvB_RA dvB_RA
+dvBH_RA dvBH_RA
+dvM_RA dvM_RA
+dvY_RA dvY_RA
+dvL_RA dvL_RA
+dvV_RA dvV_RA
+dvSH_RA dvSH_RA
+dvSS_RA dvSS_RA
+dvS_RA dvS_RA
+dvH_RA dvH_RA
+dvLL_RA dvLL_RA
+dvK_SS_RA dvK_SS_RA
+dvJ_NY_RA dvJ_NY_RA
+dvKx_RA dvKx_RA
+dvKHx_RA dvKHx_RA
+dvGx_RA dvGx_RA
+dvJx_RA dvJx_RA
+dvPHx_RA dvPHx_RA
+dvK_R dvK_R
+dvKH_R dvKH_R
+dvG_R dvG_R
+dvGH_R dvGH_R
+dvNG_R dvNG_R
+dvC_R dvC_R
+dvCH_R dvCH_R
+dvJ_R dvJ_R
+dvJH_R dvJH_R
+dvNY_R dvNY_R
+dvTT_R dvTT_R
+dvTTH_R dvTTH_R
+dvDD_R dvDD_R
+dvDDH_R dvDDH_R
+dvNN_R dvNN_R
+dvT_R dvT_R
+dvTH_R dvTH_R
+dvD_R dvD_R
+dvDH_R dvDH_R
+dvN_R dvN_R
+dvP_R dvP_R
+dvPH_R dvPH_R
+dvB_R dvB_R
+dvBH_R dvBH_R
+dvM_R dvM_R
+dvY_R dvY_R
+dvL_R dvL_R
+dvV_R dvV_R
+dvSH_R dvSH_R
+dvSS_R dvSS_R
+dvS_R dvS_R
+dvH_R dvH_R
+dvLL_R dvLL_R
+dvK_SS_R dvK_SS_R
+dvJ_NY_R dvJ_NY_R
+dvKx_R dvKx_R
+dvKHx_R dvKHx_R
+dvGx_R dvGx_R
+dvJx_R dvJx_R
+dvPHx_R dvPHx_R
+dvK_KA dvK_KA
+dvKx_KxA dvKx_KxA
+dvK_KHA dvK_KHA
+dvK_CA dvK_CA
+dvK_JA dvK_JA
+dvK_TTA dvK_TTA
+dvK_NNA dvK_NNA
+dvK_TA dvK_TA
+dvKx_TA dvKx_TA
+dvK_T_YA dvK_T_YA
+dvK_T_RA dvK_T_RA
+dvK_T_VA dvK_T_VA
+dvK_THA dvK_THA
+dvK_DA dvK_DA
+dvK_NA dvK_NA
+dvK_PA dvK_PA
+dvK_P_RA dvK_P_RA
+dvK_PHA dvK_PHA
+dvKx_PHA dvKx_PHA
+dvKx_PHxA dvKx_PHxA
+dvKx_BA dvKx_BA
+dvK_MA dvK_MA
+dvKx_MA dvKx_MA
+dvK_YA dvK_YA
+dvK_LA dvK_LA
+dvK_VA dvK_VA
+dvK_V_YA dvK_V_YA
+dvK_SHA dvK_SHA
+dvK_SS_MA dvK_SS_MA
+dvK_SS_M_YA dvK_SS_M_YA
+dvK_SS_YA dvK_SS_YA
+dvK_SS_VA dvK_SS_VA
+dvK_SA dvK_SA
+dvK_S_TTA dvK_S_TTA
+dvK_S_DDA dvK_S_DDA
+dvK_S_TA dvK_S_TA
+dvK_S_P_RA dvK_S_P_RA
+dvK_S_P_LA dvK_S_P_LA
+dvKH_KHA dvKH_KHA
+dvKH_TA dvKH_TA
+dvKHx_TA dvKHx_TA
+dvKH_NA dvKH_NA
+dvKH_MA dvKH_MA
+dvKHx_MA dvKHx_MA
+dvKH_YA dvKH_YA
+dvKHx_YA dvKHx_YA
+dvKH_VA dvKH_VA
+dvKHx_VA dvKHx_VA
+dvKH_SHA dvKH_SHA
+dvKHx_SHA dvKHx_SHA
+dvKHx_SA dvKHx_SA
+dvG_GA dvG_GA
+dvG_GHA dvG_GHA
+dvG_JA dvG_JA
+dvG_NNA dvG_NNA
+dvG_DA dvG_DA
+dvG_DHA dvG_DHA
+dvG_DH_YA dvG_DH_YA
+dvG_DH_VA dvG_DH_VA
+dvG_NA dvG_NA
+dvG_N_YA dvG_N_YA
+dvG_BA dvG_BA
+dvG_BHA dvG_BHA
+dvG_BH_YA dvG_BH_YA
+dvG_MA dvG_MA
+dvG_YA dvG_YA
+dvG_R_YA dvG_R_YA
+dvG_LA dvG_LA
+dvG_VA dvG_VA
+dvG_SA dvG_SA
+dvGH_NA dvGH_NA
+dvGH_MA dvGH_MA
+dvGH_YA dvGH_YA
+dvC_CA dvC_CA
+dvC_CHA dvC_CHA
+dvC_CH_VA dvC_CH_VA
+dvC_NA dvC_NA
+dvC_MA dvC_MA
+dvC_YA dvC_YA
+dvCH_YA dvCH_YA
+dvCH_R_YA dvCH_R_YA
+dvCH_VA dvCH_VA
+dvJ_KA dvJ_KA
+dvJ_JA dvJ_JA
+dvJx_JxA dvJx_JxA
+dvJ_J_NYA dvJ_J_NYA
+dvJ_J_YA dvJ_J_YA
+dvJ_J_VA dvJ_J_VA
+dvJ_JHA dvJ_JHA
+dvJ_NY_YA dvJ_NY_YA
+dvJ_TTA dvJ_TTA
+dvJ_DDA dvJ_DDA
+dvJ_TA dvJ_TA
+dvJ_DA dvJ_DA
+dvJ_NA dvJ_NA
+dvJ_BA dvJ_BA
+dvJ_MA dvJ_MA
+dvJ_YA dvJ_YA
+dvJx_YA dvJx_YA
+dvJ_VA dvJ_VA
+dvJH_NA dvJH_NA
+dvJH_MA dvJH_MA
+dvJH_YA dvJH_YA
+dvNY_CA dvNY_CA
+dvNY_CHA dvNY_CHA
+dvNY_JA dvNY_JA
+dvNY_SHA dvNY_SHA
+dvTT_TTA dvTT_TTA
+dvTT_TTHA dvTT_TTHA
+dvTT_YA dvTT_YA
+dvTT_VA dvTT_VA
+dvTTH_TTHA dvTTH_TTHA
+dvTTH_YA dvTTH_YA
+dvTTH_VA dvTTH_VA
+dvDD_DDA dvDD_DDA
+dvDD_DDHA dvDD_DDHA
+dvDD_YA dvDD_YA
+dvDD_VA dvDD_VA
+dvDDH_DDHA dvDDH_DDHA
+dvDDH_YA dvDDH_YA
+dvDDH_VA dvDDH_VA
+dvNN_TTA dvNN_TTA
+dvNN_TTHA dvNN_TTHA
+dvNN_DDA dvNN_DDA
+dvNN_DDHA dvNN_DDHA
+dvNN_NNA dvNN_NNA
+dvNN_MA dvNN_MA
+dvNN_YA dvNN_YA
+dvNN_VA dvNN_VA
+dvT_KA dvT_KA
+dvT_K_YA dvT_K_YA
+dvT_K_RA dvT_K_RA
+dvT_K_VA dvT_K_VA
+dvT_K_SSA dvT_K_SSA
+dvT_KHA dvT_KHA
+dvT_KH_RA dvT_KH_RA
+dvT_TA dvT_TA
+dvT_T_YA dvT_T_YA
+dvT_T_VA dvT_T_VA
+dvT_THA dvT_THA
+dvT_NA dvT_NA
+dvT_N_YA dvT_N_YA
+dvT_PA dvT_PA
+dvT_P_RA dvT_P_RA
+dvT_P_LA dvT_P_LA
+dvT_PHA dvT_PHA
+dvT_MA dvT_MA
+dvT_M_YA dvT_M_YA
+dvT_YA dvT_YA
+dvT_R_YA dvT_R_YA
+dvT_LA dvT_LA
+dvT_VA dvT_VA
+dvT_SA dvT_SA
+dvT_S_NA dvT_S_NA
+dvT_S_YA dvT_S_YA
+dvT_S_VA dvT_S_VA
+dvTH_NA dvTH_NA
+dvTH_YA dvTH_YA
+dvTH_VA dvTH_VA
+dvD_GA dvD_GA
+dvD_G_RA dvD_G_RA
+dvD_GHA dvD_GHA
+dvD_DA dvD_DA
+dvD_DHA dvD_DHA
+dvD_NA dvD_NA
+dvD_BA dvD_BA
+dvD_B_RA dvD_B_RA
+dvD_BHA dvD_BHA
+dvD_MA dvD_MA
+dvD_YA dvD_YA
+dvD_VA dvD_VA
+dvDH_NA dvDH_NA
+dvDH_N_YA dvDH_N_YA
+dvDH_MA dvDH_MA
+dvDH_YA dvDH_YA
+dvDH_VA dvDH_VA
+dvN_KA dvN_KA
+dvN_K_SA dvN_K_SA
+dvN_CA dvN_CA
+dvN_CHA dvN_CHA
+dvN_TTA dvN_TTA
+dvN_DDA dvN_DDA
+dvN_TA dvN_TA
+dvN_T_YA dvN_T_YA
+dvN_T_RA dvN_T_RA
+dvN_T_SA dvN_T_SA
+dvN_THA dvN_THA
+dvN_TH_YA dvN_TH_YA
+dvN_TH_VA dvN_TH_VA
+dvN_DA dvN_DA
+dvN_D_RA dvN_D_RA
+dvN_D_VA dvN_D_VA
+dvN_DHA dvN_DHA
+dvN_DH_YA dvN_DH_YA
+dvN_DH_RA dvN_DH_RA
+dvN_DH_VA dvN_DH_VA
+dvN_NA dvN_NA
+dvN_N_YA dvN_N_YA
+dvN_PA dvN_PA
+dvN_P_RA dvN_P_RA
+dvN_PHA dvN_PHA
+dvN_PH_RA dvN_PH_RA
+dvN_BHA dvN_BHA
+dvN_BH_YA dvN_BH_YA
+dvN_BH_VA dvN_BH_VA
+dvN_MA dvN_MA
+dvN_M_YA dvN_M_YA
+dvN_YA dvN_YA
+dvN_VA dvN_VA
+dvN_SA dvN_SA
+dvN_S_TTA dvN_S_TTA
+dvN_S_M_YA dvN_S_M_YA
+dvN_S_YA dvN_S_YA
+dvN_HA dvN_HA
+dvP_TTA dvP_TTA
+dvP_TTHA dvP_TTHA
+dvP_TA dvP_TA
+dvP_T_YA dvP_T_YA
+dvP_NA dvP_NA
+dvP_PA dvP_PA
+dvP_PHA dvP_PHA
+dvP_MA dvP_MA
+dvP_YA dvP_YA
+dvP_LA dvP_LA
+dvP_VA dvP_VA
+dvP_SA dvP_SA
+dvPH_JA dvPH_JA
+dvPHx_JxA dvPHx_JxA
+dvPH_TTA dvPH_TTA
+dvPH_TA dvPH_TA
+dvPHx_TA dvPHx_TA
+dvPH_NA dvPH_NA
+dvPH_PA dvPH_PA
+dvPH_PHA dvPH_PHA
+dvPHx_PHxA dvPHx_PHxA
+dvPH_YA dvPH_YA
+dvPH_LA dvPH_LA
+dvPH_SHA dvPH_SHA
+dvPHx_SA dvPHx_SA
+dvB_JA dvB_JA
+dvB_JxA dvB_JxA
+dvB_J_YA dvB_J_YA
+dvB_JHA dvB_JHA
+dvB_TA dvB_TA
+dvB_DA dvB_DA
+dvB_DHA dvB_DHA
+dvB_DH_VA dvB_DH_VA
+dvB_NA dvB_NA
+dvB_BA dvB_BA
+dvB_BHA dvB_BHA
+dvB_BH_RA dvB_BH_RA
+dvB_YA dvB_YA
+dvB_LA dvB_LA
+dvB_L_YA dvB_L_YA
+dvB_VA dvB_VA
+dvB_SHA dvB_SHA
+dvB_SA dvB_SA
+dvBH_NA dvBH_NA
+dvBH_YA dvBH_YA
+dvBH_R_YA dvBH_R_YA
+dvBH_LA dvBH_LA
+dvBH_VA dvBH_VA
+dvM_TA dvM_TA
+dvM_DA dvM_DA
+dvM_NA dvM_NA
+dvM_PA dvM_PA
+dvM_P_RA dvM_P_RA
+dvM_BA dvM_BA
+dvM_B_YA dvM_B_YA
+dvM_B_RA dvM_B_RA
+dvM_BHA dvM_BHA
+dvM_BH_YA dvM_BH_YA
+dvM_BH_RA dvM_BH_RA
+dvM_BH_VA dvM_BH_VA
+dvM_MA dvM_MA
+dvM_YA dvM_YA
+dvM_LA dvM_LA
+dvM_VA dvM_VA
+dvM_SHA dvM_SHA
+dvM_SA dvM_SA
+dvM_HA dvM_HA
+dvY_NA dvY_NA
+dvY_YA dvY_YA
+dvEyelash_YA dvEyelash_YA
+dvEyelash_HA dvEyelash_HA
+dvL_KA dvL_KA
+dvL_K_YA dvL_K_YA
+dvL_KHA dvL_KHA
+dvL_GA dvL_GA
+dvL_JA dvL_JA
+dvL_JxA dvL_JxA
+dvL_TTA dvL_TTA
+dvL_TTHA dvL_TTHA
+dvL_DDA dvL_DDA
+dvL_DDHA dvL_DDHA
+dvL_TA dvL_TA
+dvL_THA dvL_THA
+dvL_TH_YA dvL_TH_YA
+dvL_DA dvL_DA
+dvL_D_RA dvL_D_RA
+dvL_PA dvL_PA
+dvL_PHA dvL_PHA
+dvL_BA dvL_BA
+dvL_BHA dvL_BHA
+dvL_MA dvL_MA
+dvL_YA dvL_YA
+dvL_LA dvL_LA
+dvL_L_YA dvL_L_YA
+dvL_VA dvL_VA
+dvL_V_DDA dvL_V_DDA
+dvL_SA dvL_SA
+dvL_HA dvL_HA
+dvV_NA dvV_NA
+dvV_YA dvV_YA
+dvV_LA dvV_LA
+dvV_VA dvV_VA
+dvV_HA dvV_HA
+dvSH_KA dvSH_KA
+dvSH_KxA dvSH_KxA
+dvSH_CA dvSH_CA
+dvSH_CHA dvSH_CHA
+dvSH_TTA dvSH_TTA
+dvSH_TA dvSH_TA
+dvSH_NA dvSH_NA
+dvSH_MA dvSH_MA
+dvSH_YA dvSH_YA
+dvSH_LA dvSH_LA
+dvSH_VA dvSH_VA
+dvSH_SHA dvSH_SHA
+dvSS_KA dvSS_KA
+dvSS_K_RA dvSS_K_RA
+dvSS_TTA dvSS_TTA
+dvSS_TT_YA dvSS_TT_YA
+dvSS_TT_RA dvSS_TT_RA
+dvSS_TT_VA dvSS_TT_VA
+dvSS_TTHA dvSS_TTHA
+dvSS_TTH_YA dvSS_TTH_YA
+dvSS_TTH_RA dvSS_TTH_RA
+dvSS_NNA dvSS_NNA
+dvSS_NN_YA dvSS_NN_YA
+dvSS_PA dvSS_PA
+dvSS_P_RA dvSS_P_RA
+dvSS_PHA dvSS_PHA
+dvSS_MA dvSS_MA
+dvSS_M_YA dvSS_M_YA
+dvSS_YA dvSS_YA
+dvSS_VA dvSS_VA
+dvSS_SSA dvSS_SSA
+dvS_KA dvS_KA
+dvS_K_RA dvS_K_RA
+dvS_K_VA dvS_K_VA
+dvS_KHA dvS_KHA
+dvS_JA dvS_JA
+dvS_TTA dvS_TTA
+dvS_TA dvS_TA
+dvS_T_YA dvS_T_YA
+dvS_T_RA dvS_T_RA
+dvS_T_VA dvS_T_VA
+dvS_THA dvS_THA
+dvS_TH_YA dvS_TH_YA
+dvS_DA dvS_DA
+dvS_NA dvS_NA
+dvS_PA dvS_PA
+dvS_P_RA dvS_P_RA
+dvS_PHA dvS_PHA
+dvS_BA dvS_BA
+dvS_MA dvS_MA
+dvS_M_YA dvS_M_YA
+dvS_YA dvS_YA
+dvS_LA dvS_LA
+dvS_VA dvS_VA
+dvS_SA dvS_SA
+dvH_NNA dvH_NNA
+dvH_NA dvH_NA
+dvH_MA dvH_MA
+dvH_YA dvH_YA
+dvH_LA dvH_LA
+dvH_VA dvH_VA
+dvLL_YA dvLL_YA
+dvmII.longer dvmII.longer
+dvReph_Anusvara dvReph_Anusvara
+dvAnusvara.matrai dvAnusvara.matrai
+dvReph.matrai dvReph.matrai
+dvReph_Anusvara.matrai dvReph_Anusvara.matrai
+dvII_Anusvara dvII_Anusvara
+dvmII_Anusvara dvmII_Anusvara
+dvmII_Reph dvmII_Reph
+dvmII_Reph_Anusvara dvmII_Reph_Anusvara
+dvmII_Anusvara.longer dvmII_Anusvara.longer
+dvmII_Reph.longer dvmII_Reph.longer
+dvmII_Reph_Anusvara.longer dvmII_Reph_Anusvara.longer
+dvmE_Anusvara dvmE_Anusvara
+dvmE_Reph dvmE_Reph
+dvmE_Reph_Anusvara dvmE_Reph_Anusvara
+dvmAI_Anusvara dvmAI_Anusvara
+dvmAI_Reph dvmAI_Reph
+dvmAI_Reph_Anusvara dvmAI_Reph_Anusvara
+dvmO_Anusvara dvmO_Anusvara
+dvmO_Reph dvmO_Reph
+dvmO_Reph_Anusvara dvmO_Reph_Anusvara
+dvmAU_Anusvara dvmAU_Anusvara
+dvmAU_Reph dvmAU_Reph
+dvmAU_Reph_Anusvara dvmAU_Reph_Anusvara
+dvmEcandra_Anusvara dvmEcandra_Anusvara
+dvmOcandra_Anusvara dvmOcandra_Anusvara
+dvRA_mU dvRA_mU
+dvRA_mUU dvRA_mUU
+dvHA_mU dvHA_mU
+dvHA_mUU dvHA_mUU
+dvDA_mvR dvDA_mvR
+dvSHA_mvR dvSHA_mvR
+dvHA_mvR dvHA_mvR
+dvmI.01 dvmI.01
+dvmI.02 dvmI.02
+dvmI.03 dvmI.03
+dvmI.04 dvmI.04
+dvmI.05 dvmI.05
+dvmI.06 dvmI.06
+dvmI.07 dvmI.07
+dvmI.08 dvmI.08
+dvmI.09 dvmI.09
+dvmI.10 dvmI.10
+dvmI.11 dvmI.11
+dvmI.12 dvmI.12
+dvmI.13 dvmI.13
+dvmI.14 dvmI.14
+dvmI.15 dvmI.15
+dvmI.16 dvmI.16
+dvmI.17 dvmI.17
+dvmI.18 dvmI.18
+dvmI.19 dvmI.19
+dvmI.20 dvmI.20
+dvmI.21 dvmI.21
+dvmI.22 dvmI.22
+dvmI.23 dvmI.23
+dvmI.24 dvmI.24
+dvmI.25 dvmI.25
+dvmI.26 dvmI.26
+dvmI.27 dvmI.27
+dvmI.28 dvmI.28
+dvmI.29 dvmI.29
+dvmI.30 dvmI.30
+dvmI.31 dvmI.31
+dvmI.32 dvmI.32
+dvmI.33 dvmI.33
+dvmI.34 dvmI.34
+dvmI.35 dvmI.35
+dvmI.36 dvmI.36
+dvmI.37 dvmI.37
+dvmI.38 dvmI.38
+dvmI.39 dvmI.39
+dvmI.40 dvmI.40
+dvmI.41 dvmI.41
+dvmI.42 dvmI.42
+dvmI.43 dvmI.43
+dvmI.44 dvmI.44
+dvmI.45 dvmI.45
+dvmI.46 dvmI.46
+dvmI.47 dvmI.47
+dvmI.48 dvmI.48
+dvmI.49 dvmI.49
+dvmI.50 dvmI.50
+exclam exclam uni0021
+quotedbl quotedbl uni0022
+numbersign numbersign uni0023
+dollar dollar uni0024
+percent percent uni0025
+ampersand ampersand uni0026
+quotesingle quotesingle uni0027
+parenleft parenleft uni0028
+parenright parenright uni0029
+asterisk asterisk uni002A
+plus plus uni002B
+comma comma uni002C
+hyphen hyphen uni002D
+period period uni002E
+slash slash uni002F
+zero zero uni0030
+one one uni0031
+two two uni0032
+three three uni0033
+four four uni0034
+five five uni0035
+six six uni0036
+seven seven uni0037
+eight eight uni0038
+nine nine uni0039
+colon colon uni003A
+semicolon semicolon uni003B
+less less uni003C
+equal equal uni003D
+greater greater uni003E
+question question uni003F
+at at uni0040
+A A uni0041
+B B uni0042
+C C uni0043
+D D uni0044
+E E uni0045
+F F uni0046
+G G uni0047
+H H uni0048
+I I uni0049
+J J uni004A
+K K uni004B
+L L uni004C
+M M uni004D
+N N uni004E
+O O uni004F
+P P uni0050
+Q Q uni0051
+R R uni0052
+S S uni0053
+T T uni0054
+U U uni0055
+V V uni0056
+W W uni0057
+X X uni0058
+Y Y uni0059
+Z Z uni005A
+bracketleft bracketleft uni005B
+backslash backslash uni005C
+bracketright bracketright uni005D
+asciicircum asciicircum uni005E
+underscore underscore uni005F
+grave grave uni0060
+a a uni0061
+b b uni0062
+c c uni0063
+d d uni0064
+e e uni0065
+f f uni0066
+g g uni0067
+h h uni0068
+i i uni0069
+j j uni006A
+k k uni006B
+l l uni006C
+m m uni006D
+n n uni006E
+o o uni006F
+p p uni0070
+q q uni0071
+r r uni0072
+s s uni0073
+t t uni0074
+u u uni0075
+v v uni0076
+w w uni0077
+x x uni0078
+y y uni0079
+z z uni007A
+braceleft braceleft uni007B
+bar bar uni007C
+braceright braceright uni007D
+asciitilde asciitilde uni007E
+exclamdown exclamdown uni00A1
+cent cent uni00A2
+sterling sterling uni00A3
+currency currency uni00A4
+yen yen uni00A5
+brokenbar brokenbar uni00A6
+section section uni00A7
+dieresis dieresis uni00A8
+copyright copyright uni00A9
+ordfeminine ordfeminine uni00AA
+logicalnot logicalnot uni00AC
+registered registered uni00AE
+macron macron uni00AF
+degree degree uni00B0
+plusminus plusminus uni00B1
+acute acute uni00B4
+paragraph paragraph uni00B6
+periodcentered periodcentered uni00B7
+cedilla cedilla uni00B8
+ordmasculine ordmasculine uni00BA
+questiondown questiondown uni00BF
+Agrave Agrave uni00C0
+Aacute Aacute uni00C1
+Acircumflex Acircumflex uni00C2
+Atilde Atilde uni00C3
+Adieresis Adieresis uni00C4
+Aring Aring uni00C5
+AE AE uni00C6
+Ccedilla Ccedilla uni00C7
+Egrave Egrave uni00C8
+Eacute Eacute uni00C9
+Ecircumflex Ecircumflex uni00CA
+Edieresis Edieresis uni00CB
+Igrave Igrave uni00CC
+Iacute Iacute uni00CD
+Icircumflex Icircumflex uni00CE
+Idieresis Idieresis uni00CF
+Eth Eth uni00D0
+Ntilde Ntilde uni00D1
+Ograve Ograve uni00D2
+Oacute Oacute uni00D3
+Ocircumflex Ocircumflex uni00D4
+Otilde Otilde uni00D5
+Odieresis Odieresis uni00D6
+multiply multiply uni00D7
+Oslash Oslash uni00D8
+Ugrave Ugrave uni00D9
+Uacute Uacute uni00DA
+Ucircumflex Ucircumflex uni00DB
+Udieresis Udieresis uni00DC
+Yacute Yacute uni00DD
+Thorn Thorn uni00DE
+germandbls germandbls uni00DF
+agrave agrave uni00E0
+aacute aacute uni00E1
+acircumflex acircumflex uni00E2
+atilde atilde uni00E3
+adieresis adieresis uni00E4
+aring aring uni00E5
+ae ae uni00E6
+ccedilla ccedilla uni00E7
+egrave egrave uni00E8
+eacute eacute uni00E9
+ecircumflex ecircumflex uni00EA
+edieresis edieresis uni00EB
+igrave igrave uni00EC
+iacute iacute uni00ED
+icircumflex icircumflex uni00EE
+idieresis idieresis uni00EF
+eth eth uni00F0
+ntilde ntilde uni00F1
+ograve ograve uni00F2
+oacute oacute uni00F3
+ocircumflex ocircumflex uni00F4
+otilde otilde uni00F5
+odieresis odieresis uni00F6
+divide divide uni00F7
+oslash oslash uni00F8
+ugrave ugrave uni00F9
+uacute uacute uni00FA
+ucircumflex ucircumflex uni00FB
+udieresis udieresis uni00FC
+yacute yacute uni00FD
+thorn thorn uni00FE
+ydieresis ydieresis uni00FF
+Amacron Amacron uni0100
+amacron amacron uni0101
+Abreve Abreve uni0102
+abreve abreve uni0103
+Aogonek Aogonek uni0104
+aogonek aogonek uni0105
+Cacute Cacute uni0106
+cacute cacute uni0107
+Ccaron Ccaron uni010C
+ccaron ccaron uni010D
+Dcaron Dcaron uni010E
+dcaron dcaron uni010F
+Dcroat Dcroat uni0110
+dcroat dcroat uni0111
+Emacron Emacron uni0112
+emacron emacron uni0113
+Edotaccent Edotaccent uni0116
+edotaccent edotaccent uni0117
+Eogonek Eogonek uni0118
+eogonek eogonek uni0119
+Ecaron Ecaron uni011A
+ecaron ecaron uni011B
+Gbreve Gbreve uni011E
+gbreve gbreve uni011F
+Imacron Imacron uni012A
+imacron imacron uni012B
+Iogonek Iogonek uni012E
+iogonek iogonek uni012F
+Idotaccent Idotaccent uni0130
+dotlessi dotlessi uni0131
+Lacute Lacute uni0139
+lacute lacute uni013A
+Lcaron Lcaron uni013D
+lcaron lcaron uni013E
+Lslash Lslash uni0141
+lslash lslash uni0142
+Nacute Nacute uni0143
+nacute nacute uni0144
+Ncaron Ncaron uni0147
+ncaron ncaron uni0148
+Omacron Omacron uni014C
+omacron omacron uni014D
+Ohungarumlaut Ohungarumlaut uni0150
+ohungarumlaut ohungarumlaut uni0151
+OE OE uni0152
+oe oe uni0153
+Racute Racute uni0154
+racute racute uni0155
+Rcaron Rcaron uni0158
+rcaron rcaron uni0159
+Sacute Sacute uni015A
+sacute sacute uni015B
+Scaron Scaron uni0160
+scaron scaron uni0161
+Tcaron Tcaron uni0164
+tcaron tcaron uni0165
+Umacron Umacron uni016A
+umacron umacron uni016B
+Uring Uring uni016E
+uring uring uni016F
+Uhungarumlaut Uhungarumlaut uni0170
+uhungarumlaut uhungarumlaut uni0171
+Uogonek Uogonek uni0172
+uogonek uogonek uni0173
+Ydieresis Ydieresis uni0178
+Zacute Zacute uni0179
+zacute zacute uni017A
+Zdotaccent Zdotaccent uni017B
+zdotaccent zdotaccent uni017C
+Zcaron Zcaron uni017D
+zcaron zcaron uni017E
+florin florin uni0192
+circumflex circumflex uni02C6
+caron caron uni02C7
+breve breve uni02D8
+dotaccent dotaccent uni02D9
+ring ring uni02DA
+ogonek ogonek uni02DB
+tilde tilde uni02DC
+hungarumlaut hungarumlaut uni02DD
+pi pi uni03C0
+endash endash uni2013
+emdash emdash uni2014
+quoteleft quoteleft uni2018
+quoteright quoteright uni2019
+quotesinglbase quotesinglbase uni201A
+quotedblleft quotedblleft uni201C
+quotedblright quotedblright uni201D
+quotedblbase quotedblbase uni201E
+dagger dagger uni2020
+daggerdbl daggerdbl uni2021
+bullet bullet uni2022
+ellipsis ellipsis uni2026
+perthousand perthousand uni2030
+guilsinglleft guilsinglleft uni2039
+guilsinglright guilsinglright uni203A
+fraction fraction uni2044
+Euro Euro uni20AC
+trademark trademark uni2122
+partialdiff partialdiff uni2202
+product product uni220F
+summation summation uni2211
+minus minus uni2212
+radical radical uni221A
+infinity infinity uni221E
+approxequal approxequal uni2248
+notequal notequal uni2260
+lessequal lessequal uni2264
+greaterequal greaterequal uni2265
+lozenge lozenge uni25CA
+fi fi uniFB01
+fl fl uniFB02

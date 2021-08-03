@@ -1,0 +1,89 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dvK_KA" format="2">
+  <advance width="1615"/>
+  <anchor x="1081" y="-51" name="blwm.virama"/>
+  <anchor x="1228" y="607" name="abvm.bindu"/>
+  <anchor x="1133" y="-71" name="blwm.u"/>
+  <anchor x="1229" y="607" name="abvm.e"/>
+  <outline>
+    <contour>
+      <point x="1081" y="9" type="line"/>
+      <point x="1081" y="501" type="line"/>
+      <point x="1229" y="501" type="line"/>
+      <point x="1229" y="9" type="line"/>
+    </contour>
+    <contour>
+      <point x="650" y="500" type="line"/>
+      <point x="650" y="607" type="line"/>
+      <point x="1640" y="607" type="line"/>
+      <point x="1640" y="500" type="line"/>
+    </contour>
+    <contour>
+      <point x="888" y="436" type="curve" smooth="yes"/>
+      <point x="935" y="436"/>
+      <point x="986" y="430"/>
+      <point x="1023" y="419" type="curve"/>
+      <point x="1021" y="305" type="line"/>
+      <point x="1017" y="304" type="line"/>
+      <point x="994" y="310"/>
+      <point x="967" y="315"/>
+      <point x="931" y="315" type="curve" smooth="yes"/>
+      <point x="869" y="315"/>
+      <point x="855" y="298"/>
+      <point x="855" y="248" type="curve" smooth="yes"/>
+      <point x="855" y="198"/>
+      <point x="869" y="181"/>
+      <point x="958" y="181" type="curve" smooth="yes"/>
+      <point x="1012" y="181"/>
+      <point x="1056" y="190"/>
+      <point x="1093" y="210" type="curve"/>
+      <point x="1081" y="87" type="line"/>
+      <point x="1079" y="87" type="line"/>
+      <point x="1049" y="72"/>
+      <point x="993" y="62"/>
+      <point x="936" y="62" type="curve" smooth="yes"/>
+      <point x="766" y="62"/>
+      <point x="715" y="108"/>
+      <point x="715" y="250" type="curve" smooth="yes"/>
+      <point x="715" y="390"/>
+      <point x="761" y="436"/>
+    </contour>
+    <contour>
+      <point x="1422" y="60" type="curve" smooth="yes"/>
+      <point x="1375" y="60"/>
+      <point x="1324" y="66"/>
+      <point x="1287" y="77" type="curve"/>
+      <point x="1289" y="191" type="line"/>
+      <point x="1293" y="192" type="line"/>
+      <point x="1316" y="186"/>
+      <point x="1343" y="181"/>
+      <point x="1379" y="181" type="curve" smooth="yes"/>
+      <point x="1441" y="181"/>
+      <point x="1455" y="198"/>
+      <point x="1455" y="248" type="curve" smooth="yes"/>
+      <point x="1455" y="298"/>
+      <point x="1441" y="315"/>
+      <point x="1352" y="315" type="curve" smooth="yes"/>
+      <point x="1298" y="315"/>
+      <point x="1254" y="306"/>
+      <point x="1217" y="286" type="curve"/>
+      <point x="1229" y="409" type="line"/>
+      <point x="1231" y="409" type="line"/>
+      <point x="1261" y="424"/>
+      <point x="1317" y="434"/>
+      <point x="1374" y="434" type="curve" smooth="yes"/>
+      <point x="1544" y="434"/>
+      <point x="1595" y="388"/>
+      <point x="1595" y="246" type="curve" smooth="yes"/>
+      <point x="1595" y="106"/>
+      <point x="1549" y="60"/>
+    </contour>
+    <component base="dvK"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.06,0.6,0.98,1</string>
+    </dict>
+  </lib>
+</glyph>

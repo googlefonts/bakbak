@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dvN_DA" format="2">
+	<advance width="914"/>
+	<outline>
+		<contour>
+			<point x="722" y="321" type="line"/>
+			<point x="722" y="501" type="line"/>
+			<point x="854" y="501" type="line"/>
+			<point x="854" y="321" type="line"/>
+		</contour>
+		<contour>
+			<point x="303" y="500" type="line"/>
+			<point x="303" y="607" type="line"/>
+			<point x="954" y="607" type="line"/>
+			<point x="954" y="500" type="line"/>
+		</contour>
+		<contour>
+			<point x="389" y="253" type="curve" smooth="yes"/>
+			<point x="389" y="388"/>
+			<point x="450" y="435"/>
+			<point x="609" y="435" type="curve" smooth="yes"/>
+			<point x="696" y="435"/>
+			<point x="804" y="434"/>
+			<point x="834" y="431" type="curve"/>
+			<point x="834" y="321" type="line"/>
+			<point x="626" y="321" type="line" smooth="yes"/>
+			<point x="544" y="321"/>
+			<point x="525" y="306"/>
+			<point x="525" y="247" type="curve" smooth="yes"/>
+			<point x="525" y="189"/>
+			<point x="545" y="179"/>
+			<point x="637" y="179" type="curve" smooth="yes"/>
+			<point x="722" y="179"/>
+			<point x="743" y="191"/>
+			<point x="743" y="218" type="curve" smooth="yes"/>
+			<point x="743" y="250" type="line"/>
+			<point x="859" y="250" type="line"/>
+			<point x="859" y="9" type="line"/>
+			<point x="715" y="9" type="line"/>
+			<point x="715" y="49"/>
+			<point x="718" y="68"/>
+			<point x="725" y="87" type="curve"/>
+			<point x="722" y="89" type="line"/>
+			<point x="695" y="74"/>
+			<point x="648" y="65"/>
+			<point x="589" y="65" type="curve" smooth="yes"/>
+			<point x="456" y="65"/>
+			<point x="389" y="116"/>
+		</contour>
+		<component base="dvN"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>public.markColor</key>
+			<string>0.06,0.6,0.98,1</string>
+		</dict>
+	</lib>
+</glyph>

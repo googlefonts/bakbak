@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dvDA_mvR" format="2">
+	<advance width="531"/>
+	<outline>
+		<contour>
+			<point x="352" y="9" type="line"/>
+			<point x="472" y="9" type="line"/>
+			<point x="472" y="250" type="line"/>
+			<point x="360" y="250" type="line"/>
+			<point x="360" y="216" type="line" smooth="yes"/>
+			<point x="360" y="189"/>
+			<point x="339" y="177"/>
+			<point x="264" y="177" type="curve" smooth="yes"/>
+			<point x="182" y="177"/>
+			<point x="162" y="186"/>
+			<point x="162" y="246" type="curve" smooth="yes"/>
+			<point x="162" y="306"/>
+			<point x="181" y="321"/>
+			<point x="253" y="321" type="curve" smooth="yes"/>
+			<point x="451" y="321" type="line"/>
+			<point x="451" y="431" type="line"/>
+			<point x="421" y="434"/>
+			<point x="313" y="435"/>
+			<point x="236" y="435" type="curve" smooth="yes"/>
+			<point x="87" y="435"/>
+			<point x="26" y="388"/>
+			<point x="26" y="253" type="curve" smooth="yes"/>
+			<point x="26" y="116"/>
+			<point x="93" y="66"/>
+			<point x="216" y="66" type="curve" smooth="yes"/>
+			<point x="265" y="66"/>
+			<point x="316" y="74"/>
+			<point x="349" y="89" type="curve"/>
+			<point x="352" y="87" type="line"/>
+		</contour>
+		<contour>
+			<point x="472" y="-219" type="curve"/>
+			<point x="472" y="-125" type="line"/>
+			<point x="469" y="-123" type="line"/>
+			<point x="442" y="-129"/>
+			<point x="412" y="-132"/>
+			<point x="384" y="-132" type="curve" smooth="yes"/>
+			<point x="331" y="-132"/>
+			<point x="311" y="-126"/>
+			<point x="311" y="-95" type="curve" smooth="yes"/>
+			<point x="311" y="-65"/>
+			<point x="329" y="-58"/>
+			<point x="365" y="-58" type="curve" smooth="yes"/>
+			<point x="472" y="-58" type="line"/>
+			<point x="472" y="38" type="line"/>
+			<point x="339" y="38" type="line"/>
+			<point x="248" y="38"/>
+			<point x="192" y="7"/>
+			<point x="192" y="-94" type="curve" smooth="yes"/>
+			<point x="192" y="-195"/>
+			<point x="255" y="-229"/>
+			<point x="371" y="-229" type="curve" smooth="yes"/>
+			<point x="401" y="-229"/>
+			<point x="444" y="-226"/>
+		</contour>
+		<contour>
+			<point x="-60" y="500" type="line"/>
+			<point x="571" y="500" type="line"/>
+			<point x="571" y="607" type="line"/>
+			<point x="-60" y="607" type="line"/>
+		</contour>
+		<contour>
+			<point x="339" y="321" type="line"/>
+			<point x="467" y="321" type="line"/>
+			<point x="467" y="501" type="line"/>
+			<point x="339" y="501" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+			<string>dvDA</string>
+			<key>public.markColor</key>
+			<string>0.06,0.6,0.98,1</string>
+		</dict>
+	</lib>
+</glyph>

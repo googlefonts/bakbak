@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dvDDH" format="2">
+	<advance width="562"/>
+	<outline>
+		<contour>
+			<point x="203" y="-56" type="line"/>
+			<point x="203" y="-51" type="line"/>
+			<point x="341" y="-51" type="line"/>
+			<point x="404" y="-87"/>
+			<point x="464" y="-129"/>
+			<point x="517" y="-180" type="curve"/>
+			<point x="517" y="-185" type="line"/>
+			<point x="377" y="-222" type="line"/>
+		</contour>
+		<component base="dvDDHA"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+			<string>dvDDHA</string>
+			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+			<string>dvDDHA</string>
+			<key>public.markColor</key>
+			<string>0.06,0.6,0.98,1</string>
+		</dict>
+	</lib>
+</glyph>

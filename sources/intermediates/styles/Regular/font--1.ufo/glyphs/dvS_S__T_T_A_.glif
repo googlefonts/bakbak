@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dvSS_TTA" format="2">
+  <advance width="858"/>
+  <anchor x="627" y="-90" name="blwm.u"/>
+  <outline>
+    <component base="dvSS"/>
+    <component base="dvTTA" xOffset="365"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.06,0.6,0.98,1</string>
+    </dict>
+  </lib>
+</glyph>

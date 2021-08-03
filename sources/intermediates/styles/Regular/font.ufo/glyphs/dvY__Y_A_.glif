@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dvY_YA" format="2">
+	<advance width="1091"/>
+	<outline>
+		<component base="dvY"/>
+		<component base="dvYA" xOffset="413"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>public.markColor</key>
+			<string>0.06,0.6,0.98,1</string>
+		</dict>
+	</lib>
+</glyph>

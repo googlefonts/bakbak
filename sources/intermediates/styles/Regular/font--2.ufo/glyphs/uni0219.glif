@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0219" format="2">
+	<advance width="509"/>
+	<outline>
+		<component base="s"/>
+		<component base="commaaccent" xOffset="360" yOffset="-1"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+			<string>s</string>
+			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+			<string>s</string>
+			<key>public.markColor</key>
+			<string>0.75,0.75,0.75,1</string>
+		</dict>
+	</lib>
+</glyph>

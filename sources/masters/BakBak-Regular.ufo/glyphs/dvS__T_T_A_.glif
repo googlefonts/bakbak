@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dvS_TTA" format="2">
+	<advance width="915"/>
+	<anchor x="609" y="-61" name="blwm.virama"/>
+	<anchor x="827" y="607" name="abvm.bindu"/>
+	<anchor x="709" y="-81" name="blwm.u"/>
+	<anchor x="825" y="607" name="abvm.e"/>
+	<outline>
+		<component base="dvS"/>
+		<component base="dvTTA" xOffset="422"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>public.markColor</key>
+			<string>0.06,0.6,0.98,1</string>
+		</dict>
+	</lib>
+</glyph>

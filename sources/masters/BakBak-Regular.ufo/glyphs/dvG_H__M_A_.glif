@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dvGH_MA" format="2">
+	<advance width="1018"/>
+	<outline>
+		<component base="dvGH"/>
+		<component base="dvMA" xOffset="397"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>public.markColor</key>
+			<string>0.06,0.6,0.98,1</string>
+		</dict>
+	</lib>
+</glyph>

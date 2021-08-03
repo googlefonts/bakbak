@@ -1,0 +1,32 @@
+# Created: Mon Aug  2 21:34:45 2021
+# PS Name: BakBak-Regular
+# MM Inst: None
+# exported from Defcon
+
+@mGC_abvm.bindu_n66_607 = [dvCandrabindu dvmEcandra_Anusvara];
+@mGC_abvm.e_n83_606 = [dvmE_Anusvara dvmE_Reph_Anusvara];
+@mGC_abvm.e_n94_605 = [dvmAI_Reph dvmAI_Reph_Anusvara];
+@mGC_abvm.i_0_608 = [dvAnusvara.matrai dvReph.matrai dvReph_Anusvara.matrai];
+@mGC_blwm.u_n118_n81 = [dvmUU dvmU_UU dvmUU.short];
+@mGC_blwm.u_n136_n67 = [dvmvRR dvmvL dvmvLL];
+@mGC_blwm.u_n180_n77 = [dvmU dvmU.short];
+
+markClass @mGC_abvm.bindu_n66_607 <anchor -66 607> @MC_abvm.bindu;
+markClass @mGC_abvm.e_n83_606 <anchor -83 606> @MC_abvm.e;
+markClass @mGC_abvm.e_n94_605 <anchor -94 605> @MC_abvm.e;
+markClass @mGC_abvm.i_0_608 <anchor 0 608> @MC_abvm.i;
+markClass @mGC_blwm.u_n118_n81 <anchor -118 -81> @MC_blwm.u;
+markClass @mGC_blwm.u_n136_n67 <anchor -136 -67> @MC_blwm.u;
+markClass @mGC_blwm.u_n180_n77 <anchor -180 -77> @MC_blwm.u;
+markClass dvAnusvara <anchor -57 609> @MC_abvm.bindu;
+markClass dvII_Anusvara <anchor 378 600> @MC_abvm;
+markClass dvReph <anchor -80 607> @MC_abvm.e;
+markClass dvReph_Anusvara <anchor -83 603> @MC_abvm.bindu;
+markClass dvVirama <anchor -209 -51> @MC_blwm.virama;
+markClass dvmAI <anchor -75 603> @MC_abvm.e;
+markClass dvmAI_Anusvara <anchor -71 603> @MC_abvm.e;
+markClass dvmE <anchor -76 606> @MC_abvm.e;
+markClass dvmE_Reph <anchor -82 607> @MC_abvm.e;
+markClass dvmEcandra <anchor -67 607> @MC_abvm.bindu;
+markClass dvmvR <anchor -156 -67> @MC_blwm.u;
+

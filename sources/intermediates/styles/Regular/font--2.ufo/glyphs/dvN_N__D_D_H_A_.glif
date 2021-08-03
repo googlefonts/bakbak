@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dvNN_DDHA" format="2">
+	<advance width="1044"/>
+	<outline>
+		<component base="dvNN"/>
+		<component base="dvDDHA" xOffset="502"/>
+	</outline>
+	<anchor name="blwm.virama" x="736" y="-51"/>
+	<anchor name="abvm.bindu" x="993" y="607"/>
+	<anchor name="blwm.u" x="826" y="-81"/>
+	<anchor name="abvm.e" x="991" y="607"/>
+	<lib>
+		<dict>
+			<key>public.markColor</key>
+			<string>0.06,0.6,0.98,1</string>
+		</dict>
+	</lib>
+</glyph>

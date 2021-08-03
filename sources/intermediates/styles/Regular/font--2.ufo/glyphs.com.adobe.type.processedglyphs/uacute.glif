@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uacute" format="2">
+	<advance width="600"/>
+	<outline>
+		<contour>
+			<point x="373" y="496" type="line"/>
+			<point x="373" y="219" type="line" smooth="yes"/>
+			<point x="372" y="166"/>
+			<point x="354" y="146"/>
+			<point x="292" y="146" type="curve" smooth="yes"/>
+			<point x="226" y="146"/>
+			<point x="211" y="168"/>
+			<point x="211" y="228" type="curve" smooth="yes"/>
+			<point x="210" y="496" type="line"/>
+			<point x="50" y="496" type="line"/>
+			<point x="50" y="189" type="line" smooth="yes"/>
+			<point x="50" y="68"/>
+			<point x="97" y="0"/>
+			<point x="220" y="0" type="curve" smooth="yes"/>
+			<point x="296" y="0"/>
+			<point x="352" y="25"/>
+			<point x="370" y="64" type="curve"/>
+			<point x="373" y="64" type="line"/>
+			<point x="381" y="9" type="line"/>
+			<point x="533" y="9" type="line"/>
+			<point x="533" y="496" type="line"/>
+		</contour>
+		<contour>
+			<point x="480" y="690" type="line"/>
+			<point x="480" y="697" type="line"/>
+			<point x="332" y="697" type="line"/>
+			<point x="230" y="551" type="line"/>
+			<point x="358" y="551" type="line"/>
+		</contour>
+	</outline>
+</glyph>

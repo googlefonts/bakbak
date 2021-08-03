@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dvP_RA" format="2">
+	<advance width="576"/>
+	<outline>
+		<contour>
+			<point x="40" y="9" type="line"/>
+			<point x="40" y="13" type="line"/>
+			<point x="89" y="78"/>
+			<point x="140" y="129"/>
+			<point x="209" y="177" type="curve"/>
+			<point x="209" y="180" type="line"/>
+			<point x="208" y="182" type="line"/>
+			<point x="384" y="213" type="line"/>
+			<point x="215" y="9" type="line"/>
+		</contour>
+		<contour>
+			<point x="246" y="179" type="curve" smooth="yes"/>
+			<point x="103" y="179"/>
+			<point x="53" y="224"/>
+			<point x="53" y="384" type="curve" smooth="yes"/>
+			<point x="53" y="553" type="line"/>
+			<point x="188" y="554" type="line"/>
+			<point x="188" y="375" type="line" smooth="yes"/>
+			<point x="188" y="305"/>
+			<point x="221" y="288"/>
+			<point x="286" y="288" type="curve" smooth="yes"/>
+			<point x="327" y="288"/>
+			<point x="366" y="299"/>
+			<point x="390" y="314" type="curve"/>
+			<point x="394" y="199" type="line"/>
+			<point x="387" y="195"/>
+			<point x="375" y="188"/>
+			<point x="367" y="185" type="curve"/>
+			<point x="363" y="187" type="line"/>
+			<point x="330" y="175"/>
+			<point x="291" y="179"/>
+		</contour>
+		<contour>
+			<point x="366" y="9" type="line"/>
+			<point x="366" y="501" type="line"/>
+			<point x="514" y="501" type="line"/>
+			<point x="514" y="9" type="line"/>
+		</contour>
+		<contour>
+			<point x="-50" y="500" type="line"/>
+			<point x="-50" y="607" type="line"/>
+			<point x="615" y="607" type="line"/>
+			<point x="615" y="500" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>public.markColor</key>
+			<string>0.06,0.6,0.98,1</string>
+		</dict>
+	</lib>
+</glyph>

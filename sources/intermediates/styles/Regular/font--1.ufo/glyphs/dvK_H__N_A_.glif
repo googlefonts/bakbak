@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dvKH_NA" format="2">
+  <advance width="1237"/>
+  <outline>
+    <component base="dvKH"/>
+    <component base="dvNA" xOffset="651"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.06,0.6,0.98,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dvAI" format="2">
+	<advance width="549"/>
+	<unicode hex="0910"/>
+	<anchor x="622" y="612" name="abvm.bindu"/>
+	<outline>
+		<component base="dvE"/>
+		<component base="dvmE" xOffset="581" yOffset="1"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+			<string>dvE</string>
+			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+			<string>dvE</string>
+			<key>public.markColor</key>
+			<string>0.06,0.6,0.98,1</string>
+		</dict>
+	</lib>
+</glyph>

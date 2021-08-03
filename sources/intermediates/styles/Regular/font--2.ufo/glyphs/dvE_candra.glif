@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dvEcandra" format="2">
+	<advance width="549"/>
+	<outline>
+		<component base="dvE"/>
+		<component base="dvmEcandra" xOffset="413"/>
+	</outline>
+	<anchor name="abvm.bindu" x="351" y="800"/>
+	<anchor name="abvm.e" x="354" y="800"/>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+			<string>dvE</string>
+			<key>public.markColor</key>
+			<string>0.06,0.6,0.98,1</string>
+		</dict>
+	</lib>
+</glyph>

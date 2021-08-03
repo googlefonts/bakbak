@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dvmI" format="2">
+  <advance width="263"/>
+  <unicode hex="093F"/>
+  <outline>
+    <contour>
+      <point x="60" y="9" type="line"/>
+      <point x="60" y="501" type="line"/>
+      <point x="208" y="501" type="line"/>
+      <point x="208" y="9" type="line"/>
+    </contour>
+    <contour>
+      <point x="-40" y="500" type="line"/>
+      <point x="-40" y="607" type="line"/>
+      <point x="308" y="607" type="line"/>
+      <point x="308" y="500" type="line"/>
+    </contour>
+    <contour>
+      <point x="208" y="624" type="curve"/>
+      <point x="208" y="607" type="line"/>
+      <point x="60" y="607" type="line"/>
+      <point x="60" y="808"/>
+      <point x="177" y="822"/>
+      <point x="427" y="822" type="curve" smooth="yes"/>
+      <point x="672" y="822"/>
+      <point x="793" y="798"/>
+      <point x="793" y="650" type="curve"/>
+      <point x="645" y="650" type="line"/>
+      <point x="645" y="691"/>
+      <point x="578" y="701"/>
+      <point x="427" y="701" type="curve" smooth="yes"/>
+      <point x="276" y="701"/>
+      <point x="208" y="691"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>dvmAA</string>
+      <key>public.markColor</key>
+      <string>0.06,0.6,0.98,1</string>
+    </dict>
+  </lib>
+</glyph>

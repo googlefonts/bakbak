@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dvmI.44" format="2">
+	<advance width="268"/>
+	<outline>
+		<contour>
+			<point x="60" y="9" type="line"/>
+			<point x="60" y="501" type="line"/>
+			<point x="208" y="501" type="line"/>
+			<point x="208" y="9" type="line"/>
+		</contour>
+		<contour>
+			<point x="-40" y="500" type="line"/>
+			<point x="-40" y="607" type="line"/>
+			<point x="308" y="607" type="line"/>
+			<point x="308" y="500" type="line"/>
+		</contour>
+		<contour>
+			<point x="208" y="620" type="curve"/>
+			<point x="208" y="603" type="line"/>
+			<point x="60" y="603" type="line"/>
+			<point x="60" y="800"/>
+			<point x="172" y="818"/>
+			<point x="413" y="818" type="curve"/>
+			<point x="1856" y="818" type="line"/>
+			<point x="2090" y="818"/>
+			<point x="2209" y="794"/>
+			<point x="2209" y="646" type="curve"/>
+			<point x="2061" y="646" type="line"/>
+			<point x="2061" y="688"/>
+			<point x="1999" y="697"/>
+			<point x="1857" y="697" type="curve"/>
+			<point x="413" y="697" type="line"/>
+			<point x="273" y="697"/>
+			<point x="208" y="687"/>
+		</contour>
+	</outline>
+	<anchor name="abvm.i" x="2214" y="648"/>
+	<lib>
+		<dict>
+			<key>public.markColor</key>
+			<string>0,0.2,0.88,1</string>
+		</dict>
+	</lib>
+</glyph>

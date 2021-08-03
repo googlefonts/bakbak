@@ -1,0 +1,74 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dvK" format="2">
+  <advance width="725"/>
+  <outline>
+    <contour>
+      <point x="193" y="436" type="curve" smooth="yes"/>
+      <point x="240" y="436"/>
+      <point x="291" y="430"/>
+      <point x="328" y="419" type="curve"/>
+      <point x="326" y="305" type="line"/>
+      <point x="322" y="304" type="line"/>
+      <point x="299" y="310"/>
+      <point x="272" y="315"/>
+      <point x="236" y="315" type="curve" smooth="yes"/>
+      <point x="174" y="315"/>
+      <point x="160" y="298"/>
+      <point x="160" y="248" type="curve" smooth="yes"/>
+      <point x="160" y="198"/>
+      <point x="174" y="181"/>
+      <point x="263" y="181" type="curve" smooth="yes"/>
+      <point x="317" y="181"/>
+      <point x="361" y="190"/>
+      <point x="398" y="210" type="curve"/>
+      <point x="386" y="87" type="line"/>
+      <point x="384" y="87" type="line"/>
+      <point x="354" y="72"/>
+      <point x="298" y="62"/>
+      <point x="241" y="62" type="curve" smooth="yes"/>
+      <point x="76" y="62"/>
+      <point x="25" y="108"/>
+      <point x="25" y="250" type="curve" smooth="yes"/>
+      <point x="25" y="390"/>
+      <point x="71" y="436"/>
+    </contour>
+    <contour>
+      <point x="386" y="9" type="line"/>
+      <point x="386" y="501" type="line"/>
+      <point x="534" y="501" type="line"/>
+      <point x="534" y="9" type="line"/>
+    </contour>
+    <contour>
+      <point x="-25" y="500" type="line"/>
+      <point x="-25" y="607" type="line"/>
+      <point x="865" y="607" type="line"/>
+      <point x="865" y="500" type="line"/>
+    </contour>
+    <contour>
+      <point x="865" y="361" type="curve"/>
+      <point x="779" y="283" type="line"/>
+      <point x="775" y="283" type="line"/>
+      <point x="756" y="307"/>
+      <point x="728" y="317"/>
+      <point x="660" y="317" type="curve" smooth="yes"/>
+      <point x="603" y="317"/>
+      <point x="559" y="306"/>
+      <point x="522" y="286" type="curve"/>
+      <point x="534" y="409" type="line"/>
+      <point x="536" y="409" type="line"/>
+      <point x="566" y="424"/>
+      <point x="622" y="434"/>
+      <point x="679" y="434" type="curve" smooth="yes"/>
+      <point x="781" y="434"/>
+      <point x="837" y="412"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>dvKA</string>
+      <key>public.markColor</key>
+      <string>0.06,0.6,0.98,1</string>
+    </dict>
+  </lib>
+</glyph>

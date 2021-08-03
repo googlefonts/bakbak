@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dvM_HA" format="2">
+	<advance width="925"/>
+	<outline>
+		<contour>
+			<point x="-75" y="500" type="line"/>
+			<point x="-75" y="607" type="line"/>
+			<point x="550" y="607" type="line"/>
+			<point x="550" y="500" type="line"/>
+		</contour>
+		<contour>
+			<point x="157" y="243" type="line"/>
+			<point x="157" y="355" type="line"/>
+			<point x="540" y="356" type="line"/>
+			<point x="540" y="244" type="line"/>
+		</contour>
+		<contour>
+			<point x="107" y="349" type="curve"/>
+			<point x="107" y="500" type="line"/>
+			<point x="255" y="500" type="line"/>
+			<point x="255" y="265" type="line" smooth="yes"/>
+			<point x="255" y="178"/>
+			<point x="238" y="163"/>
+			<point x="146" y="163" type="curve" smooth="yes"/>
+			<point x="49" y="163"/>
+			<point x="26" y="182"/>
+			<point x="26" y="256" type="curve" smooth="yes"/>
+			<point x="26" y="331"/>
+			<point x="47" y="349"/>
+		</contour>
+		<contour>
+			<point x="689" y="-20" type="curve" smooth="yes"/>
+			<point x="509" y="-20"/>
+			<point x="437" y="17"/>
+			<point x="437" y="122" type="curve" smooth="yes"/>
+			<point x="437" y="199"/>
+			<point x="468" y="226"/>
+			<point x="522" y="236" type="curve"/>
+			<point x="522" y="239" type="line"/>
+			<point x="470" y="250"/>
+			<point x="446" y="280"/>
+			<point x="446" y="338" type="curve" smooth="yes"/>
+			<point x="446" y="410"/>
+			<point x="481" y="449"/>
+			<point x="603" y="449" type="curve" smooth="yes"/>
+			<point x="870" y="449" type="line"/>
+			<point x="870" y="347" type="line"/>
+			<point x="644" y="347" type="line" smooth="yes"/>
+			<point x="595" y="347"/>
+			<point x="583" y="342"/>
+			<point x="583" y="315" type="curve" smooth="yes"/>
+			<point x="583" y="288"/>
+			<point x="595" y="284"/>
+			<point x="664" y="284" type="curve"/>
+			<point x="733" y="284" type="line"/>
+			<point x="849" y="284"/>
+			<point x="883" y="257"/>
+			<point x="883" y="176" type="curve" smooth="yes"/>
+			<point x="883" y="144" type="line"/>
+			<point x="741" y="144" type="line"/>
+			<point x="741" y="152" type="line" smooth="yes"/>
+			<point x="741" y="180"/>
+			<point x="738" y="185"/>
+			<point x="649" y="185" type="curve" smooth="yes"/>
+			<point x="590" y="185"/>
+			<point x="567" y="175"/>
+			<point x="567" y="139" type="curve" smooth="yes"/>
+			<point x="567" y="101"/>
+			<point x="596" y="90"/>
+			<point x="701" y="90" type="curve" smooth="yes"/>
+			<point x="762" y="90"/>
+			<point x="844" y="92"/>
+			<point x="878" y="96" type="curve"/>
+			<point x="880" y="95" type="line"/>
+			<point x="880" y="-7" type="line"/>
+			<point x="843" y="-14"/>
+			<point x="767" y="-20"/>
+		</contour>
+		<contour>
+			<point x="367" y="500" type="line"/>
+			<point x="367" y="607" type="line"/>
+			<point x="960" y="607" type="line"/>
+			<point x="960" y="500" type="line"/>
+		</contour>
+		<contour>
+			<point x="747" y="370" type="line"/>
+			<point x="747" y="517" type="line"/>
+			<point x="870" y="517" type="line"/>
+			<point x="870" y="370" type="line"/>
+		</contour>
+	</outline>
+	<anchor name="blwm.virama" x="611" y="-81"/>
+	<anchor name="abvm.bindu" x="868" y="607"/>
+	<anchor name="blwm.u" x="693" y="-110"/>
+	<anchor name="abvm.e" x="869" y="607"/>
+	<lib>
+		<dict>
+			<key>public.markColor</key>
+			<string>0.06,0.6,0.98,1</string>
+		</dict>
+	</lib>
+</glyph>

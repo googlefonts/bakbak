@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dvOcandra" format="2">
+	<advance width="1002"/>
+	<outline>
+		<component base="dvA"/>
+		<component base="dvmOcandra" xOffset="742"/>
+	</outline>
+	<anchor name="abvm.bindu" x="951" y="808"/>
+	<anchor name="abvm.e" x="957" y="808"/>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+			<string>dvA</string>
+			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+			<string>dvAcandra</string>
+			<key>public.markColor</key>
+			<string>0.06,0.6,0.98,1</string>
+		</dict>
+	</lib>
+</glyph>

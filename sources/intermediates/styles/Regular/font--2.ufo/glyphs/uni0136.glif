@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0136" format="2">
+	<advance width="606"/>
+	<outline>
+		<component base="K"/>
+		<component base="commaaccent" xOffset="413"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+			<string>K</string>
+			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+			<string>K</string>
+			<key>public.markColor</key>
+			<string>0.75,0.75,0.75,1</string>
+		</dict>
+	</lib>
+</glyph>

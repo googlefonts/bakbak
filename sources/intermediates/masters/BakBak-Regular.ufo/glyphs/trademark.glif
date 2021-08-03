@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="trademark" format="2">
+	<advance width="948"/>
+	<unicode hex="2122"/>
+	<outline>
+		<component base="T" xScale="0.673" yScale="0.673" xOffset="10" yOffset="261"/>
+		<component base="M" xScale="0.673" yScale="0.673" xOffset="343" yOffset="261"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+			<array>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>0</integer>
+					<key>name</key>
+					<string>T</string>
+				</dict>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>1</integer>
+					<key>name</key>
+					<string>M</string>
+				</dict>
+			</array>
+			<key>public.markColor</key>
+			<string>0.97,0.9,0,1</string>
+		</dict>
+	</lib>
+</glyph>

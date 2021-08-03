@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dvTT" format="2">
+  <advance width="493"/>
+  <outline>
+    <contour>
+      <point x="194" y="-56" type="line"/>
+      <point x="194" y="-51" type="line"/>
+      <point x="332" y="-51" type="line"/>
+      <point x="395" y="-87"/>
+      <point x="455" y="-129"/>
+      <point x="508" y="-180" type="curve"/>
+      <point x="508" y="-185" type="line"/>
+      <point x="368" y="-222" type="line"/>
+    </contour>
+    <component base="dvTTA"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>dvTTA</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>dvTTA</string>
+      <key>public.markColor</key>
+      <string>0.06,0.6,0.98,1</string>
+    </dict>
+  </lib>
+</glyph>

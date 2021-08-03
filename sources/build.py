@@ -23,7 +23,7 @@ def client_override(self):
 hindkit.Client.override = client_override
 
 family = hindkit.Family(
-    trademark = "Bak-Bak",
+    trademark = "BakBak",
     script_name = "Devanagari",
     client_name = "Google Fonts",
     initial_release_year = 2017,
@@ -53,6 +53,9 @@ project = hindkit.Project(
 
         # "build_ttf": True,
         "do_style_linking": True,
+        "run_makeinstances": False,
+        #"prepare_masters": False,
+        #"prepare_styles": False,
 
         # "use_os_2_version_4": True,
         #     "prefer_typo_metrics": True,

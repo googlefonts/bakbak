@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dvTTH" format="2">
+  <advance width="616"/>
+  <outline>
+    <contour>
+      <point x="237" y="-52" type="line"/>
+      <point x="237" y="-47" type="line"/>
+      <point x="375" y="-47" type="line"/>
+      <point x="438" y="-83"/>
+      <point x="498" y="-125"/>
+      <point x="551" y="-176" type="curve"/>
+      <point x="551" y="-181" type="line"/>
+      <point x="411" y="-218" type="line"/>
+    </contour>
+    <component base="dvTTHA"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>dvTTHA</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>dvTTHA</string>
+      <key>public.markColor</key>
+      <string>0.06,0.6,0.98,1</string>
+    </dict>
+  </lib>
+</glyph>

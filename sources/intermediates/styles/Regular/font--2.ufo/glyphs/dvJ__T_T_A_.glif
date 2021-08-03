@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dvJ_TTA" format="2">
+	<advance width="932"/>
+	<outline>
+		<component base="dvJ"/>
+		<component base="dvTTA" xOffset="439"/>
+	</outline>
+	<anchor name="blwm.u" x="704" y="-90"/>
+	<lib>
+		<dict>
+			<key>public.markColor</key>
+			<string>0.06,0.6,0.98,1</string>
+		</dict>
+	</lib>
+</glyph>

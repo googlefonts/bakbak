@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dvM_SHA" format="2">
+	<advance width="1104"/>
+	<outline>
+		<contour>
+			<point x="-75" y="500" type="line"/>
+			<point x="-75" y="607" type="line"/>
+			<point x="408" y="607" type="line"/>
+			<point x="408" y="500" type="line"/>
+		</contour>
+		<contour>
+			<point x="157" y="223" type="line"/>
+			<point x="157" y="342" type="line"/>
+			<point x="540" y="343" type="line"/>
+			<point x="540" y="224" type="line"/>
+		</contour>
+		<contour>
+			<point x="107" y="336" type="curve"/>
+			<point x="107" y="500" type="line"/>
+			<point x="255" y="500" type="line"/>
+			<point x="255" y="252" type="line" smooth="yes"/>
+			<point x="255" y="158"/>
+			<point x="238" y="150"/>
+			<point x="146" y="150" type="curve" smooth="yes"/>
+			<point x="49" y="150"/>
+			<point x="26" y="169"/>
+			<point x="26" y="243" type="curve" smooth="yes"/>
+			<point x="26" y="318"/>
+			<point x="47" y="336"/>
+		</contour>
+		<component base="dvSHA" xOffset="400"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>public.markColor</key>
+			<string>0.06,0.6,0.98,1</string>
+		</dict>
+	</lib>
+</glyph>

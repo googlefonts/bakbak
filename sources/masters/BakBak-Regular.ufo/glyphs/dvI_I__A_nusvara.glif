@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dvII_Anusvara" format="2">
+	<advance width="476"/>
+	<anchor x="378.551" y="600.394" name="_abvm"/>
+	<outline>
+		<contour>
+			<point x="497" y="895" type="curve"/>
+			<point x="498" y="790" type="line"/>
+			<point x="496" y="786" type="line"/>
+			<point x="485" y="788"/>
+			<point x="474" y="789"/>
+			<point x="461" y="789" type="curve" smooth="yes"/>
+			<point x="401" y="789"/>
+			<point x="384" y="770"/>
+			<point x="384" y="726" type="curve" smooth="yes"/>
+			<point x="384" y="677"/>
+			<point x="405" y="632"/>
+			<point x="454" y="603" type="curve"/>
+			<point x="325" y="603" type="line"/>
+			<point x="325" y="610" type="line"/>
+			<point x="278" y="644"/>
+			<point x="257" y="696"/>
+			<point x="258" y="760" type="curve" smooth="yes"/>
+			<point x="258" y="848"/>
+			<point x="306" y="899"/>
+			<point x="443" y="899" type="curve" smooth="yes"/>
+			<point x="462" y="899"/>
+			<point x="480" y="898"/>
+		</contour>
+		<component base="dvI"/>
+		<component base="dvAnusvara" xScale="0.8" yScale="0.8" xOffset="600" yOffset="124"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+			<string>dvII</string>
+			<key>public.markColor</key>
+			<string>0.06,0.6,0.98,1</string>
+		</dict>
+	</lib>
+</glyph>

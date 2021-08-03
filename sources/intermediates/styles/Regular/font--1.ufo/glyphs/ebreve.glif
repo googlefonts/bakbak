@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ebreve" format="2">
+  <advance width="539"/>
+  <unicode hex="0115"/>
+  <outline>
+    <component base="e"/>
+    <component base="breve" xOffset="61" yOffset="-133"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>e</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>e</string>
+      <key>public.markColor</key>
+      <string>0.75,0.75,0.75,1</string>
+    </dict>
+  </lib>
+</glyph>
