@@ -1,8 +1,5 @@
 # Bak-Bak
 Designed by Saumya Kishore and Sanchit Sawaria
-https://struckby.co
-
-
 
 ## Building
 
