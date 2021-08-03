@@ -1,5 +1,5 @@
 {
-.appVersion = "1352";
+.appVersion = "1342";
 classes = (
 {
 code = "  dvKA
@@ -2282,16 +2282,16 @@ alignmentZones = (
 "{607, 9}",
 "{0, 9}"
 );
-ascender = 1000;
+ascender = 1050;
 capHeight = 607;
 customParameters = (
 {
 name = typoAscender;
-value = 1000;
+value = 1050;
 },
 {
 name = typoDescender;
-value = -250;
+value = -350;
 },
 {
 name = typoLineGap;
@@ -2299,11 +2299,11 @@ value = 0;
 },
 {
 name = hheaAscender;
-value = 1000;
+value = 1050;
 },
 {
 name = hheaDescender;
-value = -250;
+value = -350;
 },
 {
 name = hheaLineGap;
@@ -2318,7 +2318,7 @@ name = winDescent;
 value = 602;
 }
 );
-descender = -250;
+descender = -350;
 guideLines = (
 {
 locked = 1;
