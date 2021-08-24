@@ -1,5 +1,5 @@
 {
-.appVersion = "1342";
+.appVersion = "1349";
 classes = (
 {
 code = "  dvKA
@@ -586,13 +586,9 @@ code = "  dvmU
   dvmU.short
   dvmUU.short";
 name = COMBINING_MARKS;
-},
-{
-code = "";
-name = xxxx;
 }
 );
-copyright = "Copyright 2021 The Bak Bak Project Authors (https://github.com/agoodfeelingco/bakbak)";
+copyright = "Copyright 2021 The BakBak Project Authors (https://github.com/agoodfeelingco/bakbak)";
 customParameters = (
 {
 name = license;
@@ -625,7 +621,7 @@ designer = "Saumya Kishore and Sanchit Sawaria";
 designerURL = "http://www.struckby.co";
 disablesAutomaticAlignment = 1;
 disablesNiceNames = 1;
-familyName = "Bak Bak";
+familyName = BakBak;
 featurePrefixes = (
 {
 code = "languagesystem DFLT dflt;
