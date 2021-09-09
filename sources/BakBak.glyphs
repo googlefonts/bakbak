@@ -1,5 +1,5 @@
 {
-.appVersion = "1352";
+.appVersion = "1342";
 classes = (
 {
 code = "dvKA
@@ -1018,7 +1018,7 @@ code = "  dvmU
 name = COMBINING_MARKS;
 }
 );
-copyright = "Copyright 2021 The BakBak Project Authors (https://github.com/googlefonts/bakbak)";
+copyright = "Copyright 2021 The BakBak One Project Authors (https://github.com/googlefonts/bakbak)";
 customParameters = (
 {
 name = license;
@@ -1051,7 +1051,7 @@ designer = "Saumya Kishore and Sanchit Sawaria";
 designerURL = "http://www.struckby.co";
 disablesAutomaticAlignment = 1;
 disablesNiceNames = 1;
-familyName = BakBak;
+familyName = "BakBak One";
 featurePrefixes = (
 {
 code = "languagesystem DFLT dflt;
