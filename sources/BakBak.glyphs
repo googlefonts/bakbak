@@ -1,5 +1,5 @@
 {
-.appVersion = "1342";
+.appVersion = "1352";
 classes = (
 {
 code = "dvKA
@@ -1051,7 +1051,7 @@ designer = "Saumya Kishore and Sanchit Sawaria";
 designerURL = "http://www.struckby.co";
 disablesAutomaticAlignment = 1;
 disablesNiceNames = 1;
-familyName = "BakBak One";
+familyName = "Bakbak One";
 featurePrefixes = (
 {
 code = "languagesystem DFLT dflt;
