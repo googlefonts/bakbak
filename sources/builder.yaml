@@ -1,7 +1,4 @@
 sources:
   - Bakbak.glyphs
-outputDir: "../fonts"
-buildTTF: true
-buildOTF: false
-buildWebfont: false
-buildVariable: false
+familyName: "Bakbak One"
+buildVariable: False
