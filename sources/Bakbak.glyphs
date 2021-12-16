@@ -1018,7 +1018,7 @@ code = "  dvmU
 name = COMBINING_MARKS;
 }
 );
-copyright = "Copyright 2021 The BakBak One Project Authors (https://github.com/googlefonts/bakbak)";
+copyright = "Copyright 2021 The Bakbak One Project Authors (https://github.com/googlefonts/bakbak)";
 customParameters = (
 {
 name = license;
